@@ -1,0 +1,43 @@
+.pai {
+    text-align: center; 
+    margin-top: 110px;
+    margin-bottom: 50px;
+    background-color: #004063;
+    padding-bottom: 150px;
+}
+
+.txt1 {
+    font-size: 35px;
+    font-family: arial;
+    color: white;
+    padding-top: 55px;
+
+}
+
+.txt2 {
+    font-size: 15px;
+    font-family: arial;
+    color: white;
+    padding-bottom: 40px;
+
+}
+
+.cartoes {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    font-size: 10px;
+    justify-content: center;
+}
+
+.cartao {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border:1px solid rgb(199, 198, 198);
+    border-radius: 10px;
+    width: 300px;
+    height: 100px;
+    justify-content: center;
+    align-content: center;
+
+}
